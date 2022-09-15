@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Title 1",
+        "rating": 5.0,
+        "releaseDate": "29/01/2001"
+    },
+    {
+        "title": "Title 2",
+        "rating": 4.0,
+        "releaseDate": "29/01/2001"
+    },
+    {
+        "title": "Title 3",
+        "rating": 3.0,
+        "releaseDate": "29/01/2001"
+    }
+]
